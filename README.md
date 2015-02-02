@@ -1,5 +1,4 @@
 # hello-world
-Traditional first project
 ==========================
 
 Hello,
